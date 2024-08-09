@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/brannkh/static/css/main.f855e6bc.css",
+    "main.js": "/brannkh/static/js/main.3b6be90b.js",
+    "static/js/453.1b7803b1.chunk.js": "/brannkh/static/js/453.1b7803b1.chunk.js",
+    "static/media/logo.svg": "/brannkh/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/brannkh/index.html",
+    "main.f855e6bc.css.map": "/brannkh/static/css/main.f855e6bc.css.map",
+    "main.3b6be90b.js.map": "/brannkh/static/js/main.3b6be90b.js.map",
+    "453.1b7803b1.chunk.js.map": "/brannkh/static/js/453.1b7803b1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.3b6be90b.js"
+  ]
+}
