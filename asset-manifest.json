@@ -1,12 +1,14 @@
 {
   "files": {
-    "main.css": "/brannkh/static/css/main.792a64a5.css",
-    "main.js": "/brannkh/static/js/main.5092875e.js",
+    "main.css": "/brannkh/static/css/main.e87d6ab0.css",
+    "main.js": "/brannkh/static/js/main.3f89290f.js",
     "static/media/amigo_overall.png": "/brannkh/static/media/amigo_overall.23c2444ccdd616b808f6.png",
     "static/media/cos_overall.png": "/brannkh/static/media/cos_overall.f4b9a99cdb3fce0b5d90.png",
     "static/media/amigo_budget-page.png": "/brannkh/static/media/amigo_budget-page.a720247111da65d78439.png",
     "static/media/cos_zelle.png": "/brannkh/static/media/cos_zelle.88111b88218bc2bc7467.png",
     "static/media/hp_cos.png": "/brannkh/static/media/hp_cos.b32b1c189fc94fbe7bc4.png",
+    "static/media/cos-set4.png": "/brannkh/static/media/cos-set4.47ae223ef90cd4797d06.png",
+    "static/media/cos-set1.png": "/brannkh/static/media/cos-set1.2c2f384a7ef67b6efffd.png",
     "static/media/hp_racingSusan.png": "/brannkh/static/media/hp_racingSusan.1fd407b8f8b35546eef3.png",
     "static/media/hp_amigo.png": "/brannkh/static/media/hp_amigo.f4518936b988dfd780fe.png",
     "static/media/amigo_banner.png": "/brannkh/static/media/amigo_banner.df78e4892bcca2be1db6.png",
@@ -17,6 +19,7 @@
     "static/media/amigo-layout.png": "/brannkh/static/media/amigo-layout.09d4b6e0fd4d8e24f8b3.png",
     "static/media/hp_kitchr.png": "/brannkh/static/media/hp_kitchr.bd7446c5e815af3103d0.png",
     "static/media/hp_foodfight.png": "/brannkh/static/media/hp_foodfight.76221949ccb3ad7ca3b7.png",
+    "static/media/cos-set3.png": "/brannkh/static/media/cos-set3.5b65e1bd9296ded3e48b.png",
     "static/media/cos_scenario1.png": "/brannkh/static/media/cos_scenario1.3c6d7bd2c28531789d18.png",
     "static/media/hp_brann.png": "/brannkh/static/media/hp_brann.a07f4fe3b08b1da9532d.png",
     "static/media/cos-wireframes2.png": "/brannkh/static/media/cos-wireframes2.0001d71e0254c8b1999c.png",
@@ -38,11 +41,11 @@
     "static/media/cos-users-op1.svg": "/brannkh/static/media/cos-users-op1.fe825f2728800f24e7c1e1a5bd2f2f10.svg",
     "static/media/hp_cloud.svg": "/brannkh/static/media/hp_cloud.85c3fd9e412807b6cd93537435a97f3d.svg",
     "index.html": "/brannkh/index.html",
-    "main.792a64a5.css.map": "/brannkh/static/css/main.792a64a5.css.map",
-    "main.5092875e.js.map": "/brannkh/static/js/main.5092875e.js.map"
+    "main.e87d6ab0.css.map": "/brannkh/static/css/main.e87d6ab0.css.map",
+    "main.3f89290f.js.map": "/brannkh/static/js/main.3f89290f.js.map"
   },
   "entrypoints": [
-    "static/css/main.792a64a5.css",
-    "static/js/main.5092875e.js"
+    "static/css/main.e87d6ab0.css",
+    "static/js/main.3f89290f.js"
   ]
 }
