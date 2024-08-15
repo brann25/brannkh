@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/brannkh/static/css/main.6d6e9e33.css",
-    "main.js": "/brannkh/static/js/main.15d1e4e9.js",
+    "main.css": "/brannkh/static/css/main.78aff4f0.css",
+    "main.js": "/brannkh/static/js/main.c18e6e02.js",
     "static/media/amigo_overall.png": "/brannkh/static/media/amigo_overall.23c2444ccdd616b808f6.png",
     "static/media/cos_overall.png": "/brannkh/static/media/cos_overall.f4b9a99cdb3fce0b5d90.png",
     "static/media/amigo_budget-page.png": "/brannkh/static/media/amigo_budget-page.a720247111da65d78439.png",
@@ -41,11 +41,11 @@
     "static/media/cos-users-op1.svg": "/brannkh/static/media/cos-users-op1.fe825f2728800f24e7c1e1a5bd2f2f10.svg",
     "static/media/hp_cloud.svg": "/brannkh/static/media/hp_cloud.85c3fd9e412807b6cd93537435a97f3d.svg",
     "index.html": "/brannkh/index.html",
-    "main.6d6e9e33.css.map": "/brannkh/static/css/main.6d6e9e33.css.map",
-    "main.15d1e4e9.js.map": "/brannkh/static/js/main.15d1e4e9.js.map"
+    "main.78aff4f0.css.map": "/brannkh/static/css/main.78aff4f0.css.map",
+    "main.c18e6e02.js.map": "/brannkh/static/js/main.c18e6e02.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d6e9e33.css",
-    "static/js/main.15d1e4e9.js"
+    "static/css/main.78aff4f0.css",
+    "static/js/main.c18e6e02.js"
   ]
 }
