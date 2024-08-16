@@ -1,7 +1,11 @@
 {
   "files": {
     "main.css": "/brannkh/static/css/main.cb5f320c.css",
-    "main.js": "/brannkh/static/js/main.f01130c0.js",
+    "main.js": "/brannkh/static/js/main.2303a040.js",
+    "static/media/kt_storyBoard.png": "/brannkh/static/media/kt_storyBoard.8d1d8c955c1de118aa1c.png",
+    "static/media/kt_ads.png": "/brannkh/static/media/kt_ads.691fe67614f245ff769f.png",
+    "static/media/kt_persona.png": "/brannkh/static/media/kt_persona.204d4900e965d0cb7a7e.png",
+    "static/media/kt_alt.png": "/brannkh/static/media/kt_alt.f319a02391cf7332103b.png",
     "static/media/amigo_overall.png": "/brannkh/static/media/amigo_overall.23c2444ccdd616b808f6.png",
     "static/media/cos_overall.png": "/brannkh/static/media/cos_overall.f4b9a99cdb3fce0b5d90.png",
     "static/media/amigo_budget-page.png": "/brannkh/static/media/amigo_budget-page.a720247111da65d78439.png",
@@ -13,17 +17,23 @@
     "static/media/hp_racingSusan.png": "/brannkh/static/media/hp_racingSusan.1fd407b8f8b35546eef3.png",
     "static/media/rs_banner.png": "/brannkh/static/media/rs_banner.1fd407b8f8b35546eef3.png",
     "static/media/rs_mockup_imac.png": "/brannkh/static/media/rs_mockup_imac.b69d44ada9825b257106.png",
+    "static/media/kt_banner.png": "/brannkh/static/media/kt_banner.5c1dbf6365bb17364818.png",
     "static/media/amigo-feature3.png": "/brannkh/static/media/amigo-feature3.32c41d16931061903f62.png",
     "static/media/hp_amigo.png": "/brannkh/static/media/hp_amigo.f4518936b988dfd780fe.png",
     "static/media/amigo_banner.png": "/brannkh/static/media/amigo_banner.df78e4892bcca2be1db6.png",
+    "static/media/kt_wireframe.png": "/brannkh/static/media/kt_wireframe.609b9c95cc1682373af5.png",
     "static/media/cos_help.png": "/brannkh/static/media/cos_help.2b8fc0f371d12b225ed3.png",
+    "static/media/kt_flow1.png": "/brannkh/static/media/kt_flow1.22d7c8419890058cf9bb.png",
     "static/media/amigo-feature2.png": "/brannkh/static/media/amigo-feature2.5450f6d72e1f9993b8fc.png",
     "static/media/cos_landing.png": "/brannkh/static/media/cos_landing.5b5528a30f645e02c05d.png",
     "static/media/amigo_group-set.png": "/brannkh/static/media/amigo_group-set.7d013878beaf70068fca.png",
     "static/media/cos_banner.png": "/brannkh/static/media/cos_banner.8d3d7902975b0606ef37.png",
+    "static/media/kt_stories.png": "/brannkh/static/media/kt_stories.36aa45ec2a743b2ec6ee.png",
     "static/media/amigo-layout.png": "/brannkh/static/media/amigo-layout.09d4b6e0fd4d8e24f8b3.png",
+    "static/media/kt_group1.png": "/brannkh/static/media/kt_group1.bb3c251ce166ae54b921.png",
     "static/media/rs_credit.png": "/brannkh/static/media/rs_credit.5b903b8cd5bc089b9d0e.png",
     "static/media/hp_kitchr.png": "/brannkh/static/media/hp_kitchr.bd7446c5e815af3103d0.png",
+    "static/media/kt_group3.png": "/brannkh/static/media/kt_group3.db0020024714e0cedfa9.png",
     "static/media/hp_foodfight.png": "/brannkh/static/media/hp_foodfight.76221949ccb3ad7ca3b7.png",
     "static/media/rs_p1.png": "/brannkh/static/media/rs_p1.0d3971891757e5f64d6b.png",
     "static/media/cos-set3.png": "/brannkh/static/media/cos-set3.5b65e1bd9296ded3e48b.png",
@@ -32,6 +42,9 @@
     "static/media/hp_brann.png": "/brannkh/static/media/hp_brann.a07f4fe3b08b1da9532d.png",
     "static/media/cos-wireframes2.png": "/brannkh/static/media/cos-wireframes2.0001d71e0254c8b1999c.png",
     "static/media/cos-wireframes1.png": "/brannkh/static/media/cos-wireframes1.aa7af3c9d56409faf15e.png",
+    "static/media/kt_qoc2.png": "/brannkh/static/media/kt_qoc2.2fb77c61b0bb42606334.png",
+    "static/media/kt_qoc1.png": "/brannkh/static/media/kt_qoc1.9ca7929fc94b3fbe9a6e.png",
+    "static/media/kt_qoc3.png": "/brannkh/static/media/kt_qoc3.97fd64d55ab31f95b0ae.png",
     "static/media/hp_library.png": "/brannkh/static/media/hp_library.431b6a198d784d7978e9.png",
     "static/media/cos_scenario2.png": "/brannkh/static/media/cos_scenario2.41fb851d9450903d6317.png",
     "static/media/cos_ai.png": "/brannkh/static/media/cos_ai.cba6a3391fa9e2fa2ab9.png",
@@ -41,6 +54,7 @@
     "static/media/rs_login.png": "/brannkh/static/media/rs_login.1c3a313dc6e0b981972c.png",
     "static/media/cos_budget.png": "/brannkh/static/media/cos_budget.738654caf4e951c90d3e.png",
     "static/media/amigo_flows.png": "/brannkh/static/media/amigo_flows.0dfa4b8b9ba4a9e6c722.png",
+    "static/media/kt_group2.png": "/brannkh/static/media/kt_group2.46d32e40bc418df1f213.png",
     "static/media/amigo_research.png": "/brannkh/static/media/amigo_research.d4c8adf0e045d53d885e.png",
     "static/media/rs_export.png": "/brannkh/static/media/rs_export.a1165df0b3ab450e273f.png",
     "static/media/rs_helps.png": "/brannkh/static/media/rs_helps.5e602d4cf9aca10fdd37.png",
@@ -54,10 +68,10 @@
     "static/media/hp_cloud.svg": "/brannkh/static/media/hp_cloud.85c3fd9e412807b6cd93537435a97f3d.svg",
     "index.html": "/brannkh/index.html",
     "main.cb5f320c.css.map": "/brannkh/static/css/main.cb5f320c.css.map",
-    "main.f01130c0.js.map": "/brannkh/static/js/main.f01130c0.js.map"
+    "main.2303a040.js.map": "/brannkh/static/js/main.2303a040.js.map"
   },
   "entrypoints": [
     "static/css/main.cb5f320c.css",
-    "static/js/main.f01130c0.js"
+    "static/js/main.2303a040.js"
   ]
 }
