@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/brannkh/static/css/main.cb5f320c.css",
-    "main.js": "/brannkh/static/js/main.2303a040.js",
+    "main.css": "/brannkh/static/css/main.1b79577f.css",
+    "main.js": "/brannkh/static/js/main.d6da88de.js",
     "static/media/kt_storyBoard.png": "/brannkh/static/media/kt_storyBoard.8d1d8c955c1de118aa1c.png",
     "static/media/kt_ads.png": "/brannkh/static/media/kt_ads.691fe67614f245ff769f.png",
     "static/media/kt_persona.png": "/brannkh/static/media/kt_persona.204d4900e965d0cb7a7e.png",
@@ -14,6 +14,7 @@
     "static/media/hp_cos.png": "/brannkh/static/media/hp_cos.b32b1c189fc94fbe7bc4.png",
     "static/media/cos-set4.png": "/brannkh/static/media/cos-set4.47ae223ef90cd4797d06.png",
     "static/media/cos-set1.png": "/brannkh/static/media/cos-set1.2c2f384a7ef67b6efffd.png",
+    "static/media/BN-NatLib.png": "/brannkh/static/media/BN-NatLib.581ce2f79373967e6f05.png",
     "static/media/hp_racingSusan.png": "/brannkh/static/media/hp_racingSusan.1fd407b8f8b35546eef3.png",
     "static/media/rs_banner.png": "/brannkh/static/media/rs_banner.1fd407b8f8b35546eef3.png",
     "static/media/rs_mockup_imac.png": "/brannkh/static/media/rs_mockup_imac.b69d44ada9825b257106.png",
@@ -34,7 +35,9 @@
     "static/media/rs_credit.png": "/brannkh/static/media/rs_credit.5b903b8cd5bc089b9d0e.png",
     "static/media/hp_kitchr.png": "/brannkh/static/media/hp_kitchr.bd7446c5e815af3103d0.png",
     "static/media/kt_group3.png": "/brannkh/static/media/kt_group3.db0020024714e0cedfa9.png",
+    "static/media/BN-Media.png": "/brannkh/static/media/BN-Media.eaf179994a627be7eec9.png",
     "static/media/hp_foodfight.png": "/brannkh/static/media/hp_foodfight.76221949ccb3ad7ca3b7.png",
+    "static/media/BN-ERead.png": "/brannkh/static/media/BN-ERead.ff9082d178f074fe9955.png",
     "static/media/rs_p1.png": "/brannkh/static/media/rs_p1.0d3971891757e5f64d6b.png",
     "static/media/cos-set3.png": "/brannkh/static/media/cos-set3.5b65e1bd9296ded3e48b.png",
     "static/media/rs_landing.png": "/brannkh/static/media/rs_landing.361743fe4eac8cbf755b.png",
@@ -45,6 +48,7 @@
     "static/media/kt_qoc2.png": "/brannkh/static/media/kt_qoc2.2fb77c61b0bb42606334.png",
     "static/media/kt_qoc1.png": "/brannkh/static/media/kt_qoc1.9ca7929fc94b3fbe9a6e.png",
     "static/media/kt_qoc3.png": "/brannkh/static/media/kt_qoc3.97fd64d55ab31f95b0ae.png",
+    "static/media/ff_home.png": "/brannkh/static/media/ff_home.39a4005b5f122c3abefa.png",
     "static/media/hp_library.png": "/brannkh/static/media/hp_library.431b6a198d784d7978e9.png",
     "static/media/cos_scenario2.png": "/brannkh/static/media/cos_scenario2.41fb851d9450903d6317.png",
     "static/media/cos_ai.png": "/brannkh/static/media/cos_ai.cba6a3391fa9e2fa2ab9.png",
@@ -53,25 +57,30 @@
     "static/media/hp_branding.png": "/brannkh/static/media/hp_branding.7a7fb4b3c102994a1d1a.png",
     "static/media/rs_login.png": "/brannkh/static/media/rs_login.1c3a313dc6e0b981972c.png",
     "static/media/cos_budget.png": "/brannkh/static/media/cos_budget.738654caf4e951c90d3e.png",
+    "static/media/ff_set.png": "/brannkh/static/media/ff_set.35ed4cb4ea8ee4dee7f3.png",
     "static/media/amigo_flows.png": "/brannkh/static/media/amigo_flows.0dfa4b8b9ba4a9e6c722.png",
     "static/media/kt_group2.png": "/brannkh/static/media/kt_group2.46d32e40bc418df1f213.png",
     "static/media/amigo_research.png": "/brannkh/static/media/amigo_research.d4c8adf0e045d53d885e.png",
+    "static/media/ff_set2.png": "/brannkh/static/media/ff_set2.7fc6f38c9296199a61fd.png",
+    "static/media/ff_set1.png": "/brannkh/static/media/ff_set1.670fd783361812dea602.png",
+    "static/media/BN-Top.png": "/brannkh/static/media/BN-Top.2c6d8ee7e6fcb71f4b34.png",
     "static/media/rs_export.png": "/brannkh/static/media/rs_export.a1165df0b3ab450e273f.png",
     "static/media/rs_helps.png": "/brannkh/static/media/rs_helps.5e602d4cf9aca10fdd37.png",
     "static/media/rs_analyse.png": "/brannkh/static/media/rs_analyse.ec860d0ce48a3c7e0469.png",
     "static/media/cos_userjourney.svg": "/brannkh/static/media/cos_userjourney.2472fbcf56fe7592a30462bbb17521d1.svg",
     "static/media/cos-bigpic-diagram.svg": "/brannkh/static/media/cos-bigpic-diagram.ee1adb11ea3a0a69d3b286df256654e0.svg",
+    "static/media/BN-Diagram.svg": "/brannkh/static/media/BN-Diagram.543c3a6a9b8f1dbeef03c0c495cf8bed.svg",
     "static/media/cos-ux-dir1.svg": "/brannkh/static/media/cos-ux-dir1.2dcac5f89c4489cddeffcd5c2ec325a6.svg",
     "static/media/cos-ux-dir2.svg": "/brannkh/static/media/cos-ux-dir2.d981d1cf3c312fa1944d7f9a5cea7a39.svg",
     "static/media/cos-users-op2.svg": "/brannkh/static/media/cos-users-op2.04f4a36240bd2d00074300ed6941c0f7.svg",
     "static/media/cos-users-op1.svg": "/brannkh/static/media/cos-users-op1.fe825f2728800f24e7c1e1a5bd2f2f10.svg",
     "static/media/hp_cloud.svg": "/brannkh/static/media/hp_cloud.85c3fd9e412807b6cd93537435a97f3d.svg",
     "index.html": "/brannkh/index.html",
-    "main.cb5f320c.css.map": "/brannkh/static/css/main.cb5f320c.css.map",
-    "main.2303a040.js.map": "/brannkh/static/js/main.2303a040.js.map"
+    "main.1b79577f.css.map": "/brannkh/static/css/main.1b79577f.css.map",
+    "main.d6da88de.js.map": "/brannkh/static/js/main.d6da88de.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb5f320c.css",
-    "static/js/main.2303a040.js"
+    "static/css/main.1b79577f.css",
+    "static/js/main.d6da88de.js"
   ]
 }
