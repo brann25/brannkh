@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ac4d74ea.css",
-    "main.js": "/static/js/main.3609be2e.js",
+    "main.css": "/static/css/main.04c006fb.css",
+    "main.js": "/static/js/main.5cb3b234.js",
     "static/media/kt_storyBoard.png": "/static/media/kt_storyBoard.8d1d8c955c1de118aa1c.png",
     "static/media/kt_ads.png": "/static/media/kt_ads.691fe67614f245ff769f.png",
     "static/media/kt_persona.png": "/static/media/kt_persona.204d4900e965d0cb7a7e.png",
@@ -42,10 +42,15 @@
     "static/media/cos-set3.png": "/static/media/cos-set3.5b65e1bd9296ded3e48b.png",
     "static/media/profile.png": "/static/media/profile.b82d0938c41a24edb806.png",
     "static/media/rs_landing.png": "/static/media/rs_landing.361743fe4eac8cbf755b.png",
+    "static/media/hn_color_ratio1.png": "/static/media/hn_color_ratio1.6fdc12827091b8e14ae3.png",
+    "static/media/hn_color_ratio2.png": "/static/media/hn_color_ratio2.1587a7fe2b6493dd5f6f.png",
+    "static/media/hn_color_ratio3.png": "/static/media/hn_color_ratio3.326cd17b1ae830f34885.png",
     "static/media/BN-Entrance.png": "/static/media/BN-Entrance.e398b29a5d0188dce98c.png",
     "static/media/cos_scenario1.png": "/static/media/cos_scenario1.3c6d7bd2c28531789d18.png",
+    "static/media/hn_color_desktop_layout1.png": "/static/media/hn_color_desktop_layout1.cfef650ded1cf9c2a58f.png",
     "static/media/hp_brann.png": "/static/media/hp_brann.a07f4fe3b08b1da9532d.png",
     "static/media/cos-wireframes2.png": "/static/media/cos-wireframes2.0001d71e0254c8b1999c.png",
+    "static/media/hn_color_desktop_layout2.png": "/static/media/hn_color_desktop_layout2.0dde54f6f85d9d209427.png",
     "static/media/cos-wireframes1.png": "/static/media/cos-wireframes1.aa7af3c9d56409faf15e.png",
     "static/media/kt_qoc2.png": "/static/media/kt_qoc2.2fb77c61b0bb42606334.png",
     "static/media/hp_branding.png": "/static/media/hp_branding.09151d7ffe9512bef61f.png",
@@ -56,6 +61,7 @@
     "static/media/hp_library.png": "/static/media/hp_library.431b6a198d784d7978e9.png",
     "static/media/cos_scenario2.png": "/static/media/cos_scenario2.41fb851d9450903d6317.png",
     "static/media/cos_ai.png": "/static/media/cos_ai.cba6a3391fa9e2fa2ab9.png",
+    "static/media/hn_color_desktop_layout3.png": "/static/media/hn_color_desktop_layout3.f49145196ddc0bd36170.png",
     "static/media/cos_widget.png": "/static/media/cos_widget.21d777422e9c990b0b39.png",
     "static/media/cos_scenario3.png": "/static/media/cos_scenario3.451a1709e85fac33326e.png",
     "static/media/rs_login.png": "/static/media/rs_login.1c3a313dc6e0b981972c.png",
@@ -65,6 +71,7 @@
     "static/media/kt_group2.png": "/static/media/kt_group2.46d32e40bc418df1f213.png",
     "static/media/amigo_research.png": "/static/media/amigo_research.d4c8adf0e045d53d885e.png",
     "static/media/ff_set2.png": "/static/media/ff_set2.7fc6f38c9296199a61fd.png",
+    "static/media/hn_color_icons.png": "/static/media/hn_color_icons.e67654726608609faf90.png",
     "static/media/ff_set1.png": "/static/media/ff_set1.670fd783361812dea602.png",
     "static/media/BN-Top.png": "/static/media/BN-Top.2c6d8ee7e6fcb71f4b34.png",
     "static/media/rs_export.png": "/static/media/rs_export.a1165df0b3ab450e273f.png",
@@ -76,15 +83,15 @@
     "static/media/BN-Diagram.svg": "/static/media/BN-Diagram.543c3a6a9b8f1dbeef03c0c495cf8bed.svg",
     "static/media/cos-ux-dir1.svg": "/static/media/cos-ux-dir1.2dcac5f89c4489cddeffcd5c2ec325a6.svg",
     "static/media/cos-ux-dir2.svg": "/static/media/cos-ux-dir2.d981d1cf3c312fa1944d7f9a5cea7a39.svg",
+    "index.html": "/index.html",
     "static/media/cos-users-op2.svg": "/static/media/cos-users-op2.04f4a36240bd2d00074300ed6941c0f7.svg",
     "static/media/cos-users-op1.svg": "/static/media/cos-users-op1.fe825f2728800f24e7c1e1a5bd2f2f10.svg",
-    "index.html": "/index.html",
     "static/media/hp_cloud.svg": "/static/media/hp_cloud.85c3fd9e412807b6cd93537435a97f3d.svg",
-    "main.ac4d74ea.css.map": "/static/css/main.ac4d74ea.css.map",
-    "main.3609be2e.js.map": "/static/js/main.3609be2e.js.map"
+    "main.04c006fb.css.map": "/static/css/main.04c006fb.css.map",
+    "main.5cb3b234.js.map": "/static/js/main.5cb3b234.js.map"
   },
   "entrypoints": [
-    "static/css/main.ac4d74ea.css",
-    "static/js/main.3609be2e.js"
+    "static/css/main.04c006fb.css",
+    "static/js/main.5cb3b234.js"
   ]
 }
