@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1ef036c8.css",
-    "main.js": "/static/js/main.d573c52e.js",
+    "main.js": "/static/js/main.be22fca0.js",
     "static/media/kt_storyBoard.png": "/static/media/kt_storyBoard.8d1d8c955c1de118aa1c.png",
     "static/media/kt_ads.png": "/static/media/kt_ads.691fe67614f245ff769f.png",
     "static/media/kt_persona.png": "/static/media/kt_persona.204d4900e965d0cb7a7e.png",
@@ -55,6 +55,7 @@
     "static/media/kt_qoc2.png": "/static/media/kt_qoc2.2fb77c61b0bb42606334.png",
     "static/media/kt_qoc1.png": "/static/media/kt_qoc1.9ca7929fc94b3fbe9a6e.png",
     "static/media/kt_qoc3.png": "/static/media/kt_qoc3.97fd64d55ab31f95b0ae.png",
+    "static/media/hp_branding.png": "/static/media/hp_branding.3c968dba3c24d4ada898.png",
     "static/media/ff_home.png": "/static/media/ff_home.39a4005b5f122c3abefa.png",
     "static/media/hp_library.png": "/static/media/hp_library.431b6a198d784d7978e9.png",
     "static/media/cos_scenario2.png": "/static/media/cos_scenario2.41fb851d9450903d6317.png",
@@ -63,7 +64,6 @@
     "static/media/cos_widget.png": "/static/media/cos_widget.21d777422e9c990b0b39.png",
     "static/media/cos_scenario3.png": "/static/media/cos_scenario3.451a1709e85fac33326e.png",
     "static/media/Home.png": "/static/media/Home.dea17ddea5f48e09256f.png",
-    "static/media/hp_branding.png": "/static/media/hp_branding.bf4d85911f3208305bc0.png",
     "static/media/rs_login.png": "/static/media/rs_login.1c3a313dc6e0b981972c.png",
     "static/media/cos_budget.png": "/static/media/cos_budget.738654caf4e951c90d3e.png",
     "static/media/ff_set.png": "/static/media/ff_set.35ed4cb4ea8ee4dee7f3.png",
@@ -89,10 +89,10 @@
     "static/media/cos-users-op1.svg": "/static/media/cos-users-op1.fe825f2728800f24e7c1e1a5bd2f2f10.svg",
     "static/media/hp_cloud.svg": "/static/media/hp_cloud.85c3fd9e412807b6cd93537435a97f3d.svg",
     "main.1ef036c8.css.map": "/static/css/main.1ef036c8.css.map",
-    "main.d573c52e.js.map": "/static/js/main.d573c52e.js.map"
+    "main.be22fca0.js.map": "/static/js/main.be22fca0.js.map"
   },
   "entrypoints": [
     "static/css/main.1ef036c8.css",
-    "static/js/main.d573c52e.js"
+    "static/js/main.be22fca0.js"
   ]
 }
