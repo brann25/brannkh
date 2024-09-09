@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5b94d3db.css",
-    "main.js": "/static/js/main.db795820.js",
+    "main.js": "/static/js/main.e001462b.js",
     "static/media/kt_storyBoard.png": "/static/media/kt_storyBoard.8d1d8c955c1de118aa1c.png",
     "static/media/kt_ads.png": "/static/media/kt_ads.691fe67614f245ff769f.png",
     "static/media/kt_persona.png": "/static/media/kt_persona.204d4900e965d0cb7a7e.png",
@@ -24,10 +24,10 @@
     "static/media/kt_banner.png": "/static/media/kt_banner.5c1dbf6365bb17364818.png",
     "static/media/cos-premium-help.png": "/static/media/cos-premium-help.1a13a37bd04713a7da3f.png",
     "static/media/amigo-feature3.png": "/static/media/amigo-feature3.32c41d16931061903f62.png",
-    "static/media/hp_amigo.png": "/static/media/hp_amigo.f4518936b988dfd780fe.png",
     "static/media/cos-wireframes.png": "/static/media/cos-wireframes.fe9a0d3cb7e1bacb774c.png",
     "static/media/cos-ov-banner.png": "/static/media/cos-ov-banner.9ded01cc04ab6fd9e30e.png",
     "static/media/amigo_banner.png": "/static/media/amigo_banner.df78e4892bcca2be1db6.png",
+    "static/media/hp_amigo.png": "/static/media/hp_amigo.805e1b5eb3faf9dbbef7.png",
     "static/media/kt_wireframe.png": "/static/media/kt_wireframe.609b9c95cc1682373af5.png",
     "static/media/cos_help.png": "/static/media/cos_help.2b8fc0f371d12b225ed3.png",
     "static/media/kt_flow1.png": "/static/media/kt_flow1.22d7c8419890058cf9bb.png",
@@ -105,10 +105,10 @@
     "static/media/cos-users-op1.svg": "/static/media/cos-users-op1.fe825f2728800f24e7c1e1a5bd2f2f10.svg",
     "static/media/hp_cloud.svg": "/static/media/hp_cloud.85c3fd9e412807b6cd93537435a97f3d.svg",
     "main.5b94d3db.css.map": "/static/css/main.5b94d3db.css.map",
-    "main.db795820.js.map": "/static/js/main.db795820.js.map"
+    "main.e001462b.js.map": "/static/js/main.e001462b.js.map"
   },
   "entrypoints": [
     "static/css/main.5b94d3db.css",
-    "static/js/main.db795820.js"
+    "static/js/main.e001462b.js"
   ]
 }
