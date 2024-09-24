@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.58e0fadb.css",
-    "main.js": "/static/js/main.7ded8c98.js",
+    "main.css": "/static/css/main.32faeebe.css",
+    "main.js": "/static/js/main.67d4d2ad.js",
     "static/media/kt_storyBoard.png": "/static/media/kt_storyBoard.8d1d8c955c1de118aa1c.png",
     "static/media/kt_ads.png": "/static/media/kt_ads.691fe67614f245ff769f.png",
     "static/media/GG_Credit.png": "/static/media/GG_Credit.0e60f769965b6d1a7b5d.png",
@@ -68,7 +68,9 @@
     "static/media/kt_qoc2.png": "/static/media/kt_qoc2.2fb77c61b0bb42606334.png",
     "static/media/GG_DS.png": "/static/media/GG_DS.59e30ba527e9be58a3d0.png",
     "static/media/kt_qoc1.png": "/static/media/kt_qoc1.9ca7929fc94b3fbe9a6e.png",
+    "static/media/set2.png": "/static/media/set2.890aaf7081f8c669bea1.png",
     "static/media/kt_qoc3.png": "/static/media/kt_qoc3.97fd64d55ab31f95b0ae.png",
+    "static/media/set1.png": "/static/media/set1.f88510f4de764840a7a2.png",
     "static/media/hp_branding.png": "/static/media/hp_branding.3c968dba3c24d4ada898.png",
     "static/media/cos-set4.png": "/static/media/cos-set4.3b38856ecb38f26d55f1.png",
     "static/media/ff_home.png": "/static/media/ff_home.39a4005b5f122c3abefa.png",
@@ -78,6 +80,7 @@
     "static/media/hn_color_desktop_layout3.png": "/static/media/hn_color_desktop_layout3.f49145196ddc0bd36170.png",
     "static/media/cos_widget.png": "/static/media/cos_widget.21d777422e9c990b0b39.png",
     "static/media/cos_scenario3.png": "/static/media/cos_scenario3.451a1709e85fac33326e.png",
+    "static/media/set3.png": "/static/media/set3.4e0ec808adc6b8d16d70.png",
     "static/media/Home.png": "/static/media/Home.dea17ddea5f48e09256f.png",
     "static/media/cos-set1.png": "/static/media/cos-set1.83b0c6eae8a4f492639e.png",
     "static/media/rs_login.png": "/static/media/rs_login.1c3a313dc6e0b981972c.png",
@@ -117,11 +120,11 @@
     "static/media/hp_cloud.svg": "/static/media/hp_cloud.85c3fd9e412807b6cd93537435a97f3d.svg",
     "static/media/letsgo.svg": "/static/media/letsgo.26a2d2e6db3934cb8140f8ab6d3e00c8.svg",
     "static/media/notice.svg": "/static/media/notice.f9aa7ecbf3633a84db4be52efb4001e3.svg",
-    "main.58e0fadb.css.map": "/static/css/main.58e0fadb.css.map",
-    "main.7ded8c98.js.map": "/static/js/main.7ded8c98.js.map"
+    "main.32faeebe.css.map": "/static/css/main.32faeebe.css.map",
+    "main.67d4d2ad.js.map": "/static/js/main.67d4d2ad.js.map"
   },
   "entrypoints": [
-    "static/css/main.58e0fadb.css",
-    "static/js/main.7ded8c98.js"
+    "static/css/main.32faeebe.css",
+    "static/js/main.67d4d2ad.js"
   ]
 }
