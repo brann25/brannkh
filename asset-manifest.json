@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2d58a3dc.css",
-    "main.js": "/static/js/main.1dfd2e4e.js",
+    "main.js": "/static/js/main.398ea545.js",
     "static/media/kt_storyBoard.png": "/static/media/kt_storyBoard.8d1d8c955c1de118aa1c.png",
     "static/media/kt_ads.png": "/static/media/kt_ads.691fe67614f245ff769f.png",
     "static/media/kt_persona.png": "/static/media/kt_persona.204d4900e965d0cb7a7e.png",
@@ -20,7 +20,7 @@
     "static/media/cos-ads.png": "/static/media/cos-ads.37d8d24b6cd0efad2f1b.png",
     "static/media/cos_zelle.png": "/static/media/cos_zelle.88111b88218bc2bc7467.png",
     "static/media/amigo-feature1.png": "/static/media/amigo-feature1.ecfd92b1af7b0ac0d6af.png",
-    "static/media/GG_File.png": "/static/media/GG_File.b4cbbb51c83a685cba63.png",
+    "static/media/GG_File.png": "/static/media/GG_File.f413209d9f8468e633fd.png",
     "static/media/BN-NatLib.png": "/static/media/BN-NatLib.581ce2f79373967e6f05.png",
     "static/media/rs_banner.png": "/static/media/rs_banner.1fd407b8f8b35546eef3.png",
     "static/media/rs_mockup_imac.png": "/static/media/rs_mockup_imac.b69d44ada9825b257106.png",
@@ -118,10 +118,10 @@
     "static/media/letsgo.svg": "/static/media/letsgo.26a2d2e6db3934cb8140f8ab6d3e00c8.svg",
     "static/media/notice.svg": "/static/media/notice.f9aa7ecbf3633a84db4be52efb4001e3.svg",
     "main.2d58a3dc.css.map": "/static/css/main.2d58a3dc.css.map",
-    "main.1dfd2e4e.js.map": "/static/js/main.1dfd2e4e.js.map"
+    "main.398ea545.js.map": "/static/js/main.398ea545.js.map"
   },
   "entrypoints": [
     "static/css/main.2d58a3dc.css",
-    "static/js/main.1dfd2e4e.js"
+    "static/js/main.398ea545.js"
   ]
 }
